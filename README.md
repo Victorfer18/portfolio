@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfólio Pessoal
 
-## Getting Started
+Este é um projeto de portfólio pessoal desenvolvido com [Next.js](https://nextjs.org/) utilizando [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). O site exibe meus projetos, habilidades e experiências profissionais.
 
-First, run the development server:
+## Visão Geral
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+O portfólio foi criado para apresentar meus trabalhos anteriores e demonstrar minhas habilidades técnicas. A interface é moderna e responsiva, projetada para fornecer uma experiência de usuário fluida e visualmente atraente.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Início Rápido
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Para começar a trabalhar com este projeto, siga os passos abaixo:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Clone o repositório:**
 
-## Learn More
+    ```bash
+    git clone https://github.com/seuusuario/nome-do-repositorio.git
+    cd nome-do-repositorio
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+2. **Instale as dependências:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    ```bash
+    npm install
+    # ou
+    yarn install
+    # ou
+    pnpm install
+    # ou
+    bun install
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. **Inicie o servidor de desenvolvimento:**
 
-## Deploy on Vercel
+    ```bash
+    npm run dev
+    # ou
+    yarn dev
+    # ou
+    pnpm dev
+    # ou
+    bun dev
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. **Abra o site em seu navegador:**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    Acesse [http://localhost:3000](http://localhost:3000) para ver o resultado.
+
+Você pode começar a editar as páginas modificando `app/page.tsx`. A página será atualizada automaticamente conforme você edita o arquivo.
+
+## Recursos
+
+Este projeto utiliza [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para otimizar e carregar automaticamente a fonte Inter, uma fonte personalizada do Google.
+
+## Aprenda Mais
+
+Para aprender mais sobre Next.js, consulte os seguintes recursos:
+
+- [Documentação do Next.js](https://nextjs.org/docs) - conheça as funcionalidades e a API do Next.js.
+- [Aprenda Next.js](https://nextjs.org/learn) - um tutorial interativo sobre Next.js.
+
+Confira também [o repositório do Next.js no GitHub](https://github.com/vercel/next.js/) - seu feedback e contribuições são bem-vindos!
+
+## Implantação no Vercel
+
+A maneira mais fácil de implantar seu aplicativo Next.js é usar a [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme), criada pelos desenvolvedores do Next.js.
+
+Veja nossa [documentação de implantação do Next.js](https://nextjs.org/docs/deployment) para mais detalhes.
+
+## Contribuição
+
+Se desejar contribuir com o projeto, sinta-se à vontade para enviar pull requests. Toda contribuição é bem-vinda!
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+---
+
+**Nota**: Este projeto é um portfólio pessoal e foi desenvolvido para exibir projetos e habilidades. Adapte conforme necessário para atender às suas necessidades e preferências.

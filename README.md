@@ -72,7 +72,7 @@ Se desejar contribuir com o projeto, sinta-se à vontade para enviar pull reques
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
 
